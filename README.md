@@ -4,16 +4,16 @@ Hi 👋 My name is Shabbir Mitha
 Web and App Developer
 ---------------------
 
-I've been learning to code since 14, i started with HTML CSS and JS for frontend developing and then coded web-apps with mongo-express-node, becomming a Full-Stack Developer. Then at age of 18, i started with android app developing using XML and Java, and currently learning and building Native Apps using Flutter-Dart.
+I've been learning to code since 14, i started with HTML CSS and JS for frontend developing and then coded web-apps with mongo-express-node, becomming a Full-Stack Developer. Then at age of 18, i started with android app developing using XML and Java, and currently learning ReactJS.
 
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [My Portfolio](http://shabbirmitha.github.io/portfolio/)
 * ✉️  You can contact me at [shabbirmitha786@gmail.com](mailto:shabbirmitha786@gmail.com)
 * 🚀  I'm currently working on [ShareCamp](http://sharecamp.cyclic.app)
-* 🧠  I'm learning Flutter and Dart
+* 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Native App Developing
 
-<a href="https://www.twitter.com/shabbirmitha" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/vFlex19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shabbirmitha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -41,7 +41,7 @@ src="https://img.shields.io/twitter/follow/shabbirmitha?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/『vFlex』#0849" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/shabbirm19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/shabbirmitha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shabbirmitha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shabbirmitha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shabbirmitha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/vflex19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/『vFlex』#0849" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/shabbirm19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/shabbirmitha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_shabbir19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shabbirmitha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vFlex19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/vflex19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
