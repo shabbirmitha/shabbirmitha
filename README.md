@@ -1,4 +1,4 @@
-Hi 👋 My name is Shabbir Mitha
+Hi 👋 My name is Shabbir
 ==============================
 
 Web and App Developer
