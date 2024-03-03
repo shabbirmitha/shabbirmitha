@@ -9,7 +9,6 @@ Passionate web developer with expertise in full-stack development.Committed to i
 * 🌍  I'm based in Pune, India
 * 🖥️  Visit my website at [My Website](https://shabbir.me)
 * ✉️  You can contact me at [shabbirmitha786@gmail.com](mailto:shabbirmitha786@gmail.com)
-* 🚀  I'm currently working on [ShareCamp](http://sharecamp.cyclic.app)
 
 ### I code with
 
